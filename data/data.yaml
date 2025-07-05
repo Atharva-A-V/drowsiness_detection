@@ -1,0 +1,6 @@
+path: "D:/projects/drowsiness_detection/dataset"  
+train: images/train
+val: images/val
+
+nc: 2
+names: ['awake', 'drowsy']
